@@ -8,8 +8,7 @@
 ## Features
 
 
-- **VS Code**
-- **Dockerized CI/CD Pipeline**
+- **Docker**
 - **Static Code Analysis (SAST) - Pre-commit**
 - **Software Composition Analysis (SCA) - Docker Scout**
 - **Software Bill of Materials (SBOM)**
